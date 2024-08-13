@@ -1,7 +1,14 @@
-# vue-admin
+# vue2
 
-> 基于vue-admin-template的二次定制脚手架，去掉了一些繁琐的东西，升级了一些包
+> 一个vue2的 后台管理模板
 
-**Live demo:** http://panjiachen.github.io/vue-admin-template
+## Build Setup
+
+``` bash
+# 克隆项目
+git clone https://gitee.com/zhao-guangze/wisdom_garden.git
+
+# 项目启动
+npm run dev
 
 
