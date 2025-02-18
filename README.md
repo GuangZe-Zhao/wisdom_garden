@@ -6,8 +6,7 @@
 
 ``` bash
 # 克隆项目
-git clone https://gitee.com/zhao-guangze/wisdom_garden.git
-
+git clone https://github.com/GuangZe-Zhao/wisdom_garden.git
 # 项目启动
 npm run dev
 
